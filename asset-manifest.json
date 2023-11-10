@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dashtoon_Comic_Generator/static/css/main.9254a76d.css",
+    "main.js": "/Dashtoon_Comic_Generator/static/js/main.6f47254b.js",
+    "static/js/787.dc6064db.chunk.js": "/Dashtoon_Comic_Generator/static/js/787.dc6064db.chunk.js",
+    "index.html": "/Dashtoon_Comic_Generator/index.html",
+    "main.9254a76d.css.map": "/Dashtoon_Comic_Generator/static/css/main.9254a76d.css.map",
+    "main.6f47254b.js.map": "/Dashtoon_Comic_Generator/static/js/main.6f47254b.js.map",
+    "787.dc6064db.chunk.js.map": "/Dashtoon_Comic_Generator/static/js/787.dc6064db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9254a76d.css",
+    "static/js/main.6f47254b.js"
+  ]
+}
